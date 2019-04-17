@@ -1,0 +1,15 @@
+*.zip
+
+*.dbf
+*.prj
+*.shp
+*.shx
+
+*.grd
+*.gri
+
+*.tiff
+*.xml
+
+*.txt
+*.pdf
